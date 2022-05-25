@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Luis Angel Díaz Labrador",
+    "occupation": "CONICET",
+    "description": "Soy Ingeniero Informático, actualmente trabajo en el Complejo Turístico Las Terrazas, donde trabajo como desarrollador web",
+    "image": "1.jpg",
+    "bio": "Mi nombre es Luis Angel, soy desarrollador full stack, con experiencia en desarrollo web. Me considero un profesional responsable y comprometido tanto en mi trabajo como en mi vida, con capacidad para aprender nuevas tecnologías, trabajar en equipo y afrontar nuevos retos.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "luisangel970930@gmail.com",
+    "phone": "+53 53529808",
+    "address": {
+      "city": "Candelaria",
+      "state": "Artemisa",
+      "zip": "22700",
+      "country": "Cuba"
+    },
+    "website": "",
+    "resumedownload": "/files/AntonioCollazoGarcia.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/luisangel.diazlabrador",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/luis-angel-d%C3%ADaz-labrador-5031b5236",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_luisangeldl_",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+     
+      {
+        "school": "Universidad Agraria de La Habana (UNAH) - La Habana, Cuba",
+        "degree": "Ingeniero Informàtico",
+        "graduated": "Septiembre 2015 - noviembre 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Complejo Turístico Las Terrazas - Candelaria, Artemisa, Cuba",
+        "title": "Desarrollador de software",
+        "years": "Diciembre 2020 - Presente",
+        "description": "Desarrollo de aplicaciones web."
+      }
+     
+    ],
+    "skillmessage": "",
+    "skills": [
+      
+      {
+        "name": "Vue 2.0",
+        "level": "85%"
+      },
+      {
+        "name": "Vue 3.0",
+        "level": "80%"
+      },
+      
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      
+      {
+        "name": "HTML",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "70%"
+      },
+      {
+        "name": "Vuetify",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
+      },
+      {
+        "name": "SQL",
+        "level": "65%"
+      },
+      {
+        "name": "PostgresSQL",
+        "level": "65%"
+      },
+      {
+        "name": "DB",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "60%"
+      },
+      {
+        "name": "JSON",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "30%"
+      },
+      {
+        "name": "Heroku",
+        "level": "30%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+        
+      {
+        "title": "Censo CLT",
+        "image": "Censo",
+        "url": "",
+        "description": "Aplicación Web para la administración de datos personales y estadisticos en la población de las terrazas."
+      }
+    ]
+  }
+}
