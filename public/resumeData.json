@@ -40,7 +40,7 @@
       {
         "school": "Universidad Agraria de La Habana (UNAH) - La Habana, Cuba",
         "degree": "Ingeniero Informàtico",
-        "graduated": "Septiembre 2015 - noviembre 2020",
+        "graduated": "Septiembre 2015 - Noviembre 2020",
         "description": ""
       }
     ],
@@ -57,14 +57,9 @@
     "skills": [
       
       {
-        "name": "Vue 2.0",
+        "name": "Vue",
         "level": "85%"
-      },
-      {
-        "name": "Vue 3.0",
-        "level": "80%"
-      },
-      
+      }, 
       {
         "name": "JavaScript",
         "level": "70%"
@@ -87,15 +82,11 @@
         "level": "65%"
       },
       {
-        "name": "ES6",
-        "level": "65%"
-      },
-      {
         "name": "SQL",
         "level": "65%"
       },
       {
-        "name": "PostgresSQL",
+        "name": "PostgreSQL",
         "level": "65%"
       },
       {
