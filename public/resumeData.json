@@ -15,7 +15,7 @@
       "country": "Cuba"
     },
     "website": "",
-    "resumedownload": "/files/AntonioCollazoGarcia.pdf",
+    "resumedownload": "/files/luisangel.pdf",
     "social": [
       {
         "name": "facebook",
@@ -67,7 +67,7 @@
       
       {
         "name": "JavaScript",
-        "level": "75%"
+        "level": "70%"
       },
       
       {
@@ -87,6 +87,10 @@
         "level": "65%"
       },
       {
+        "name": "ES6",
+        "level": "65%"
+      },
+      {
         "name": "SQL",
         "level": "65%"
       },
@@ -103,8 +107,12 @@
         "level": "60%"
       },
       {
+        "name": "API REST",
+        "level": "40%"
+      },
+      {
         "name": "JSON",
-        "level": "50%"
+        "level": "40%"
       },
       {
         "name": "ReactJS",
