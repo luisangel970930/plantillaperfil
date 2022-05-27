@@ -126,13 +126,19 @@
   },
   "portfolio": {
     "projects": [
-        
+      {
+        "title": "Web DataMining",
+        "image": "DataMining",
+        "url": "",
+        "description": "Aplicación Web que te permite aplicar algoritmos de minería de datos a registro de eventos de cursos educativos en la plataforma Moodle para la obtención de patrones de aprendizaje"
+      },
       {
         "title": "Censo CLT",
         "image": "Censo",
         "url": "",
         "description": "Aplicación Web para la administración de datos personales y estadisticos en la población de las terrazas."
       }
+     
     ]
   }
 }
