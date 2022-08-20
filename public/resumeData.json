@@ -134,19 +134,19 @@
         "title": "Web DataMining",
         "image": "DataMining",
         "url": "",
-        "description": "Aplicación Web que te permite aplicar algoritmos de minería de datos a registro de eventos de cursos educativos en la plataforma Moodle para la obtención de patrones de aprendizaje"
+        "description": "Aplicación Web que te permite aplicar algoritmos de minería de datos a registro de eventos de cursos educativos en la plataforma Moodle para la obtención de patrones de aprendizaje.(Java y JSF)"
       },
       {
         "title": "Censo CLT",
         "image": "Censo",
         "url": "",
-        "description": "Aplicación Web para la administración de datos personales y estadisticos en la población de las terrazas."
+        "description": "Aplicación Web para la administración de datos personales y estadisticos en la población de las terrazas.(Node JS y Vue 2.0)"
       },
       {
         "title": "Reservas CLT",
         "image": "Reserva",
         "url": "",
-        "description": "Sistema Web para la gestion de reserva de excursiones del complejo las terrazas."
+        "description": "Sistema Web para la gestion de reserva de excursiones del complejo las terrazas.(Node JS y Vue 3.0)"
       }
      
     ]
